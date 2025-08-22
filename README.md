@@ -17,7 +17,7 @@ A robust, scalable, and fully Dockerized data pipeline for automatically fetchin
 
 **🎉 All assignment requirements have been implemented and tested!**
 
-Your Alpha Vantage API key has been configured: `Z87JYKFS7Y4RXA0Q`
+Your Alpha Vantage API key has been configured: `put_your_api_key_here`
 
 ## ✅ Assignment Requirements Met
 
